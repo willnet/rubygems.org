@@ -16,8 +16,8 @@ pt-BR:
     Together</a> financia o desenvolvimento e o trabalho operacional. <a href="%{sponsors_page}">Saiba
     mais sobre nossos parceiros e como eles trabalham juntos</a>.
   footer_join_rt_html: Nós precisamos de sua ajuda para financiar os desenvolvedores
-    que mantém o RubyGems.org funcionando sem problemas. <a href="https://rubytogether.org/join?source=rubygems">Junte-se
-    ao Ruby Together</a>.
+    que mantém o RubyGems.org funcionando sem problemas. <a href="https://rubycentral.org/">Junte-se
+    ao Ruby Central</a>.
   form_disable_with: Por favor, aguarde...
   invalid_page: Esta página é inválida. Redirecionando para a página inicial...
   locale_name: Português do Brasil

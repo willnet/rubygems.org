@@ -14,7 +14,7 @@ en:
     <a href="https://rubytogether.org/?source=rubygems">Ruby Together</a> funds ongoing development and ops work.
     <a href="%{sponsors_page}">Learn more about our sponsors and how they work together</a>.
   footer_join_rt_html: We need your help to fund the developer time that keeps RubyGems.org running smoothly for everyone.
-    <a href="https://rubytogether.org/join?source=rubygems">Join Ruby Together today</a>.
+    <a href="https://rubycentral.org/">Join Ruby Central today</a>.
   form_disable_with: Please wait...
   invalid_page: Page number is out of range. Redirected to default page.
   locale_name: English
